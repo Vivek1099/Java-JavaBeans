@@ -1,5 +1,9 @@
 package practice;
-
+/* 
+- each properties has two function 
+  1> get func 
+  2> set func
+- In java beans constructor is mandatory */
 public class JavaBeans {
 	int id;
 	int age;
